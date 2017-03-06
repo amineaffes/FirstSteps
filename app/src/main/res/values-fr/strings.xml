@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Steps</string>
+    <string name="btnExit">Quitter</string>
+    <string name="btnAlpha">Alphabets</string>
+    <string name="btnNum">Numéros</string>
+    <string name="btnWords">Mots</string>
+    <string name="btnPh">Phrases</string>
+</resources>
